@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "name": "Eunice Metz",
+      "id": 1
+    },
+    {
+      "name": "Tamara Leffler",
+      "id": 2
+    },
+    {
+      "name": "Ronnie Grady",
+      "id": 3
+    },
+    {
+      "name": "Pablo DuBuque",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Ergonomic Wooden Salad",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "Bespoke Steel Table",
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "title": "Rustic Rubber Bike",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Plastic Bike",
+      "id": 6
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=70989",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13295",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=95204",
+      "id": 3
+    }
+  ]
+}
